@@ -1,0 +1,11 @@
+C:\Users\muham\source\repos\213020UnitConverter\213020UnitConverter\bin\Debug\213020UnitConverter.exe.config
+C:\Users\muham\source\repos\213020UnitConverter\213020UnitConverter\bin\Debug\213020UnitConverter.exe
+C:\Users\muham\source\repos\213020UnitConverter\213020UnitConverter\bin\Debug\213020UnitConverter.pdb
+C:\Users\muham\source\repos\213020UnitConverter\213020UnitConverter\obj\Debug\213020UnitConverter.csproj.AssemblyReference.cache
+C:\Users\muham\source\repos\213020UnitConverter\213020UnitConverter\obj\Debug\213020UnitConverter.csproj.SuggestedBindingRedirects.cache
+C:\Users\muham\source\repos\213020UnitConverter\213020UnitConverter\obj\Debug\_213020UnitConverter.Form1.resources
+C:\Users\muham\source\repos\213020UnitConverter\213020UnitConverter\obj\Debug\_213020UnitConverter.Properties.Resources.resources
+C:\Users\muham\source\repos\213020UnitConverter\213020UnitConverter\obj\Debug\213020UnitConverter.csproj.GenerateResource.cache
+C:\Users\muham\source\repos\213020UnitConverter\213020UnitConverter\obj\Debug\213020UnitConverter.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\213020UnitConverter\213020UnitConverter\obj\Debug\213020UnitConverter.exe
+C:\Users\muham\source\repos\213020UnitConverter\213020UnitConverter\obj\Debug\213020UnitConverter.pdb
